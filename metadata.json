@@ -1,0 +1,8 @@
+
+{
+  "name": "Tech_Fashion",
+  "description": "A generative fashion intelligence system that discovers outfits tailored to your occasion and inspiration using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
